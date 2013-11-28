@@ -9,16 +9,16 @@
     "should"
   ],
   "version": "0.1.1",
-  "author": "Kevin Mees <kev.mees@gmail.com>",
+  "author": "takyam <takayuki.yamaguch.m@gmail.com>",
   "main": "./index.js",
   "license": "MIT",
-  "homepage": "https://github.com/kmees/karma-sinon-chai",
+  "homepage": "https://github.com/takyam-git/karma-sinon-chai",
   "repository": {
     "type": "git",
-    "url": "https://github.com/kmees/karma-sinon-chai.git"
+    "url": "https://github.com/takyam-git/karma-sinon-chai.git"
   },
   "bugs": {
-    "url": "https://github.com/kmees/karma-sinon-chai/issues"
+    "url": "https://github.com/takyam-git/karma-sinon-chai/issues"
   },
   "scripts": {
     "postinstall": "node ./node_modules/bower/bin/bower install"
@@ -28,7 +28,7 @@
     "Tobias Kopelke <nox@raynode.de>"
   ],
   "dependencies": {
-    "chai": "~1.6.1",
+    "chai": "~1.8.2",
     "sinon-chai": "~2.4.0",
     "bower": "~1.0.3"
   },
